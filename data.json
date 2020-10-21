@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "The Shawshank Redemption",
+        "realeaseYear": 1994
+    },
+    {
+        "id": 2,
+        "name": "The Godfathe",
+        "realeaseYear": 1972
+    },
+    {
+        "id": 3,
+        "name": "The Dark Knight",
+        "realeaseYear": 2008
+    },
+    {
+        "id": 4,
+        "name": "12 Angry Men",
+        "realeaseYear": 1957
+    },
+    {
+        "id": 5,
+        "name": "Schindler’s List",
+        "realeaseYear": 1993
+    },
+    {
+        "id": 6,
+        "name": "The Return of King",
+        "realeaseYear": 2003
+    },
+    {
+        "id": 7,
+        "name": "The Good, The Bad and The Ugl",
+        "realeaseYear": 1996
+    },
+    {
+        "id": 8,
+        "name": "Fight Club",
+        "realeaseYear": 1999
+    },
+    {
+        "id": 9,
+        "name": "The Fellowship of The Rin",
+        "realeaseYear": 2001
+    },
+    {
+        "id": 10,
+        "name": "Forrest Gump",
+        "realeaseYear": 1994
+    },
+    {
+        "id": 11,
+        "name": "Episode V The Empires Strike Back",
+        "realeaseYear": 1980
+    },
+    {
+        "id": 12,
+        "name": "Inception",
+        "realeaseYear": 2010
+    },
+    {
+        "id": 13,
+        "name": "The Two Towers",
+        "realeaseYear": 2002
+    },
+    {
+        "id": 14,
+        "name": "One Flew Over the Cuckoo’s Nest",
+        "realeaseYear": 1975
+    }
+]
